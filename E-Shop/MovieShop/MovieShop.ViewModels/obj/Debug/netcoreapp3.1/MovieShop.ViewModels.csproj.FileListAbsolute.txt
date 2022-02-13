@@ -1,0 +1,12 @@
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.ViewModels\bin\Debug\netcoreapp3.1\MovieShop.ViewModels.deps.json
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.ViewModels\bin\Debug\netcoreapp3.1\MovieShop.ViewModels.dll
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.ViewModels\bin\Debug\netcoreapp3.1\MovieShop.ViewModels.pdb
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.ViewModels\bin\Debug\netcoreapp3.1\MovieShop.Models.dll
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.ViewModels\bin\Debug\netcoreapp3.1\MovieShop.Models.pdb
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.ViewModels\obj\Debug\netcoreapp3.1\MovieShop.ViewModels.csprojAssemblyReference.cache
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.ViewModels\obj\Debug\netcoreapp3.1\MovieShop.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.ViewModels\obj\Debug\netcoreapp3.1\MovieShop.ViewModels.AssemblyInfo.cs
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.ViewModels\obj\Debug\netcoreapp3.1\MovieShop.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.ViewModels\obj\Debug\netcoreapp3.1\MovieShop.ViewModels.csproj.CopyComplete
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.ViewModels\obj\Debug\netcoreapp3.1\MovieShop.ViewModels.dll
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.ViewModels\obj\Debug\netcoreapp3.1\MovieShop.ViewModels.pdb

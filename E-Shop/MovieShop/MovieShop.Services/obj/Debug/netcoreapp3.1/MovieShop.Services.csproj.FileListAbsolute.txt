@@ -1,0 +1,16 @@
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.Services\bin\Debug\netcoreapp3.1\MovieShop.Services.deps.json
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.Services\bin\Debug\netcoreapp3.1\MovieShop.Services.dll
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.Services\bin\Debug\netcoreapp3.1\MovieShop.Services.pdb
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.Services\bin\Debug\netcoreapp3.1\MovieShop.DataAccess.dll
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.Services\bin\Debug\netcoreapp3.1\MovieShop.Models.dll
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.Services\bin\Debug\netcoreapp3.1\MovieShop.DataAccess.pdb
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.Services\bin\Debug\netcoreapp3.1\MovieShop.Models.pdb
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.Services\obj\Debug\netcoreapp3.1\MovieShop.Services.csprojAssemblyReference.cache
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.Services\obj\Debug\netcoreapp3.1\MovieShop.Services.AssemblyInfoInputs.cache
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.Services\obj\Debug\netcoreapp3.1\MovieShop.Services.AssemblyInfo.cs
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.Services\obj\Debug\netcoreapp3.1\MovieShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.Services\obj\Debug\netcoreapp3.1\MovieShop.Services.csproj.CopyComplete
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.Services\obj\Debug\netcoreapp3.1\MovieShop.Services.dll
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.Services\obj\Debug\netcoreapp3.1\MovieShop.Services.pdb
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.Services\bin\Debug\netcoreapp3.1\MovieShop.ViewModels.dll
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.Services\bin\Debug\netcoreapp3.1\MovieShop.ViewModels.pdb

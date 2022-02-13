@@ -1,0 +1,15 @@
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.DataAccess\bin\Debug\netcoreapp3.1\MovieShop.Models.dll
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.DataAccess\obj\Debug\netcoreapp3.1\MovieShop.DataAccess.csprojAssemblyReference.cache
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.DataAccess\obj\Debug\netcoreapp3.1\MovieShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.DataAccess\obj\Debug\netcoreapp3.1\MovieShop.DataAccess.AssemblyInfo.cs
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.DataAccess\bin\Debug\netcoreapp3.1\MovieShop.DataAccess.deps.json
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.DataAccess\bin\Debug\netcoreapp3.1\MovieShop.DataAccess.runtimeconfig.json
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.DataAccess\bin\Debug\netcoreapp3.1\MovieShop.DataAccess.runtimeconfig.dev.json
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.DataAccess\bin\Debug\netcoreapp3.1\MovieShop.DataAccess.dll
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.DataAccess\bin\Debug\netcoreapp3.1\MovieShop.DataAccess.pdb
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.DataAccess\bin\Debug\netcoreapp3.1\MovieShop.Models.pdb
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.DataAccess\obj\Debug\netcoreapp3.1\MovieShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.DataAccess\obj\Debug\netcoreapp3.1\MovieShop.DataAccess.csproj.CopyComplete
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.DataAccess\obj\Debug\netcoreapp3.1\MovieShop.DataAccess.dll
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.DataAccess\obj\Debug\netcoreapp3.1\MovieShop.DataAccess.pdb
+C:\Users\Vasko\Desktop\Asp .Net Projects\E-Shop\MovieShop\MovieShop.DataAccess\obj\Debug\netcoreapp3.1\MovieShop.DataAccess.genruntimeconfig.cache
